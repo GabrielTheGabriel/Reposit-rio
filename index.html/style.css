@@ -3,6 +3,16 @@ body {
     color: white;
 }
 header{
-    font-size: 50;
+    font-size: 50px;
     text-align: center;
+    font-family: "Danfo", serif;
+}
+section{
+    display: flex;
+    font-size: 25px;
+    background-color: yellow;
+    justify-content: center;
+}
+.chamada-texto{
+    padding-right: 5%;
 }
