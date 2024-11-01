@@ -10,7 +10,7 @@ header{
 section{
     display: flex;
     font-size: 25px;
-    background-color: yellow;
+    background-color: purple;
     padding: 30px;
     justify-content: center;
     margin-top: 20px;
