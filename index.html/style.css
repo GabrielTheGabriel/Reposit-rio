@@ -11,6 +11,7 @@ section{
     display: flex;
     font-size: 25px;
     background-color: yellow;
+    padding: 30px;
     justify-content: center;
 }
 .chamada-texto{
