@@ -22,3 +22,26 @@ img{
     width: 210px;
     height: 280px;
 }
+
+.numero-um{
+    background-color: darkmagenta;
+
+
+    padding: 30px;
+    justify-content: center;
+    margin: 30px;
+}
+.numero-dois{
+justify-content: center;
+margin-bottom: 80px;
+padding-bottom: 30px;
+
+}
+
+.outros{
+
+justify-content: center;
+
+
+
+}
