@@ -21,6 +21,11 @@ section{
 img{
     width: 210px;
     height: 280px;
+    opacity: 0.7;
+}
+
+img:hover{
+    border: solid 2px white;
 }
 
 .numero-um{
