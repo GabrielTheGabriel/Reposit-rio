@@ -7,7 +7,7 @@ header{
     text-align: center;
     font-family: "Danfo", serif;
 }
-section{
+.numero-um{
     display: flex;
     font-size: 25px;
     background-color: purple;
@@ -25,28 +25,19 @@ img{
 }
 
 img:hover{
+    opacity: 1.0;
     border: solid 2px white;
 }
 
-.numero-um{
-    background-color: darkmagenta;
 
-
-    padding: 30px;
-    justify-content: center;
-    margin: 30px;
-}
 .numero-dois{
-justify-content: center;
-margin-bottom: 80px;
-padding-bottom: 30px;
+    justify-content: center;
+    margin-bottom: 80px;
+    padding-bottom: 30px;
 
 }
 
-.outros{
-
-justify-content: center;
-
-
+.outros{    
+    justify-content: center;
 
 }
